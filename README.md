@@ -1,5 +1,5 @@
 # Super Herois
 
-![./voyager.jp](Nave Voyager)
+![./voyager.jpg](Nave Voyager)
 
-É um repositóriode personagens e naves de Star War e Sta Trek
+É um repositóri ode personagens e naves de Star War e Sta Tre.
