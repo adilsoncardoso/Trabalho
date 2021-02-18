@@ -1,2 +1,2 @@
 # Trabalho
-É um repositório teste
+É um repositório test - personagens Star War.
